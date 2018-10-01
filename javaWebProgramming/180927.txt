@@ -90,7 +90,7 @@ tomcat.apache.org
 tomcat8 버전을 다운로드하여 압축을 해제한다.
 
 tomcat 8
- +
+	+
  -- bin 실행파일 startup.bat (sh), 종료파일 shutdown.bat (sh)
  -- conf : tomcat 설정파일이 있다.
  -- webapps : 웹애플리케이션들이 있는 경로. ROOT라는 폴더의 context path는 ""이다.
